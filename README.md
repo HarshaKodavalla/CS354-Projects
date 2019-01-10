@@ -1,5 +1,5 @@
 # CS354 Machine Organization and Programming
-My programming assignments from the Spring 2018 semester. 
+Some of my programming assignments from the Spring 2018 semester. 
 
 
 ## Course Description
